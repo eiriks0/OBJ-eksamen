@@ -42,7 +42,7 @@
       ><path d="M-264 -15 L528 -15 L528 30 L-264 30 L-264 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath13"
-      ><path d="M-46 -15 L92 -15 L92 30 L-46 30 L-46 -15 Z"
+      ><path d="M-44 -15 L88 -15 L88 30 L-44 30 L-44 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath14"
       ><path d="M-164 -15 L328 -15 L328 30 L-164 30 L-164 -15 Z"
@@ -207,9 +207,9 @@
     ><text x="16" xml:space="preserve" y="12" clip-path="url(#clipPath12)" stroke="none"
       >5: Printable p = New PDFPrinable (PDDocument);</text
     ></g
-    ><g font-size="11" transform="translate(28,558)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="9" xml:space="preserve" y="12" clip-path="url(#clipPath13)" stroke="none"
-      >Actor</text
+    ><g font-size="11" transform="translate(29,558)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath13)" stroke="none"
+      >User</text
     ></g
     ><g font-size="11" transform="translate(339,132)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="12" xml:space="preserve" y="12" clip-path="url(#clipPath14)" stroke="none"
